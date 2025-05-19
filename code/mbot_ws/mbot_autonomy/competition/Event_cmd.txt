@@ -1,0 +1,19 @@
+# Event 1
+Event 1: Speed Run [300 points max]
+
+complete two runs:
+1. cd mbot_autonomy/build
+./mbot_motion_controller
+./mbot_slam
+./exploration
+
+2. drive quickly around the path two times. (judged on speed not final error)
+HOW to get goal point???
+
+./mbot_motion_controller
+./event1
+
+
+##-------------------------------------------------------------------------
+
+# Event 2
